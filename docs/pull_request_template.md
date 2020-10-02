@@ -2,7 +2,7 @@
 _Descreva a feature ou o problema e adicione links para a tarefa_
 
 ## Descrição
-_Como essa mudança resolve o problema? Descreva qual linha de raciocínio você seguiu para chegar nessa solução, se achar necessário, inclua links de artigos embasando sua ideia_
+_Como essa mudança resolve o problema? Descreva qual linha de raciocínio você seguiu para chegar nessa solução, se achar necessário, inclua links de artigos embasando sua ideias_
 
 #### Tarefas
 - [ ] Utilize o checklist para melhorar a visualização das tarefas e indicar o andamento
